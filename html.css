@@ -1,0 +1,36 @@
+#joke1{
+    background-color: yellowgreen;
+   
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    justify-content:center;
+    display: flex;
+}
+
+#btn{
+    height: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color:darkcyan;
+    cursor: pointer;
+    border-radius: 10px;
+    
+    
+}
+#first{
+    text-align: center;
+    margin:20px
+}
+h1{
+    background-color: #100303;
+    color: azure;
+    text-align: center;
+    width:200px;
+    margin:auto;
+    margin-bottom: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+*{
+    background-color: #12f3cd;
+}
